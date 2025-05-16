@@ -1,0 +1,3 @@
+export const STORAGE_KEY = {
+  SESSION_PROFILE: "SESSION_PROFILE",
+};
